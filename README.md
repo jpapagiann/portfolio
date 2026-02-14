@@ -1,11 +1,16 @@
-# portfolio
-Language-focused NLP and policy text analytics projects (EU context). Full technical repositories available upon request.
+Language-centric NLP systems and large-scale policy text analytics in the EU context. Detailed technical repositories available upon request.
+
 # Language-Centric AI & Policy Text Analytics  
 Ioannis Papagiannopoulos  
 
 This repository presents selected work at the intersection of Natural Language Processing, large-scale policy text analytics, and socio-economic modelling, developed during my MSc in Data Science & Machine Learning.
 
 My focus lies in structured analysis of complex textual corpora, multilingual document processing, and transformer-based semantic modelling — with particular interest in Greek-language and EU policy texts.
+
+## Research Orientation
+
+Particular interest in large language models (LLMs), semantic representation learning, and cross-lingual transfer — especially in structurally rich languages such as Greek.  
+Focused on reproducible experimentation, interpretability, and scalable text-processing pipelines.
 
 ---
 
